@@ -1,6 +1,7 @@
 # Group Assignment of Group *Polaris*
 
 > This is a document about our project and its learning path.
+> This document is an auxiliary document for my project, but since it has some guiding functions for beginners of reinforcement learning, I put it here, hoping to help some people who are just getting started and helpless.
 >
 > The following is our group's project, and I will attach all the exploration from the beginning to the final assignment.
 
@@ -1407,3 +1408,8 @@ I am very sorry to have failed the last most important task. The above documents
 
 The above is the realization of the knowledge I learned in this summer project with code. I am very grateful for the guidance of the professor. I hope that I can still write an email to you for advice on AI-related projects in the future.  
   
+# SAY TO MY GITHUBER
+After seeing this, you have found that the sixth project has not been completed. I am sorry, because my level is not enough, so I can only go here. If I learn more about this in the next 4 years of university, I may be perfect.
+If you are a researcher in this area, I hope you can give me some guidance to complete the final project.
+My email is:
+qq2524303785@gmail.com or 2524303785@qq.com
